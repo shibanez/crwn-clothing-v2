@@ -9,7 +9,7 @@ const Navigation = () => {
   return (
     <Fragment>
       <div className="navigation">
-        <Link className="nav-logo" to="/">
+        <Link className="logo-container" to="/">
           <CrwnLogo className="logo" />
         </Link>
         <div className="nav-links-container">
